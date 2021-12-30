@@ -70,10 +70,18 @@ p {
     float: right;
     margin-left: 30px;
 }
-.skill-row {
+.skill-row-1 {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
+    line-height: 2;
+    
+}
+
+.skill-row-2 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: right;
     line-height: 2;
     
 }
